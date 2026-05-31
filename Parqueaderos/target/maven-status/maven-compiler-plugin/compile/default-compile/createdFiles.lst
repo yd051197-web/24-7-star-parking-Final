@@ -1,0 +1,5 @@
+config\ConexionBD.class
+com\mycompany\parqueaderos\JakartaRestConfiguration.class
+servlet\VehiculoServlet.class
+com\mycompany\parqueaderos\resources\JakartaEE11Resource.class
+dao\VehiculoDAO.class
